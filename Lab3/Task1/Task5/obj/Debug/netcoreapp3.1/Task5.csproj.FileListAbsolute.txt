@@ -1,0 +1,11 @@
+C:\Users\ZATS\source\repos\Task1\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Task1\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+C:\Users\ZATS\source\repos\Task1\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+C:\Users\ZATS\source\repos\Task1\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+C:\Users\ZATS\source\repos\Task1\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+C:\Users\ZATS\source\repos\Task1\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+C:\Users\ZATS\source\repos\Task1\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+C:\Users\ZATS\source\repos\Task1\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+C:\Users\ZATS\source\repos\Task1\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+C:\Users\ZATS\source\repos\Task1\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+C:\Users\ZATS\source\repos\Task1\Task5\obj\Debug\netcoreapp3.1\Task5.pdb

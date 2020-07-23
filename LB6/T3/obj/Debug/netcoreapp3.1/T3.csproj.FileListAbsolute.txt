@@ -1,0 +1,11 @@
+C:\Users\ZATS\RiderProjects\LB6\T3\bin\Debug\netcoreapp3.1\T3.exe
+C:\Users\ZATS\RiderProjects\LB6\T3\bin\Debug\netcoreapp3.1\T3.deps.json
+C:\Users\ZATS\RiderProjects\LB6\T3\bin\Debug\netcoreapp3.1\T3.runtimeconfig.json
+C:\Users\ZATS\RiderProjects\LB6\T3\bin\Debug\netcoreapp3.1\T3.runtimeconfig.dev.json
+C:\Users\ZATS\RiderProjects\LB6\T3\bin\Debug\netcoreapp3.1\T3.dll
+C:\Users\ZATS\RiderProjects\LB6\T3\bin\Debug\netcoreapp3.1\T3.pdb
+C:\Users\ZATS\RiderProjects\LB6\T3\obj\Debug\netcoreapp3.1\T3.csprojAssemblyReference.cache
+C:\Users\ZATS\RiderProjects\LB6\T3\obj\Debug\netcoreapp3.1\T3.AssemblyInfoInputs.cache
+C:\Users\ZATS\RiderProjects\LB6\T3\obj\Debug\netcoreapp3.1\T3.AssemblyInfo.cs
+C:\Users\ZATS\RiderProjects\LB6\T3\obj\Debug\netcoreapp3.1\T3.dll
+C:\Users\ZATS\RiderProjects\LB6\T3\obj\Debug\netcoreapp3.1\T3.pdb

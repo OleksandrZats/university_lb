@@ -1,0 +1,11 @@
+C:\Users\ZATS\source\repos\Task1\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\Users\ZATS\source\repos\Task1\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\Users\ZATS\source\repos\Task1\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\Users\ZATS\source\repos\Task1\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\Users\ZATS\source\repos\Task1\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\Users\ZATS\source\repos\Task1\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\Users\ZATS\source\repos\Task1\Task7\obj\Debug\netcoreapp3.1\Task7.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Task1\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\Users\ZATS\source\repos\Task1\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\Users\ZATS\source\repos\Task1\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\Users\ZATS\source\repos\Task1\Task7\obj\Debug\netcoreapp3.1\Task7.pdb
